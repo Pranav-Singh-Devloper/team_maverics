@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = 'https://team-mavericks-1.onrender.com';
 
 class ApiService {
   constructor() {
